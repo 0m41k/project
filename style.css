@@ -48,3 +48,51 @@ a {
 .create a {
   color: #ffc219;
 }
+
+.info {
+  background-color: black;
+  margin-top: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+.avatarka img {
+  width: 200px;
+  height: 200px;
+  margin-top: 15px;
+  margin-left: 15px;
+  border-radius: 10px;
+}
+
+.info-info {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  padding-right: 300px;
+  font-size: 20px;
+}
+
+.info-info input {
+  width: 300px;
+  size: 100px;
+}
+
+.profil1,
+.profil2 {
+  padding-bottom: 20px;
+}
+
+.button {
+  padding-bottom: 20px;
+}
+
+.button button {
+  background-color: white;
+  border: 5px solid white;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+  font-size: 20px;
+  font-weight: bold;
+}
