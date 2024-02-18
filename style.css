@@ -1,10 +1,10 @@
-.body {
+body {
   background-color: #a67a00;
 }
 .shapka {
   background-color: black;
   width: 100%;
-  height: 135px;
+  height: 100px;
   display: flex;
   justify-content: space-between;
   color: #a67a00;
@@ -13,10 +13,10 @@
 
 .logo {
   display: flex;
-  width: 100px;
-  height: 100px;
-  margin-left: 18px;
-  margin: 14px;
+  width: 75px;
+  height: 75px;
+  margin-left: 15px;
+  margin: 13px;
 }
 
 .glavnay {
@@ -26,4 +26,21 @@
 
 .create {
   margin-right: 25px;
+  margin-top: 15px;
+  color: #ffc219;
+}
+
+.glavnay h1 {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 9px;
+}
+
+.glavnay h2 {
+  padding-top: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: #a67a00;
 }
