@@ -44,3 +44,7 @@ a {
   text-decoration: none;
   color: #a67a00;
 }
+
+.create a {
+  color: #ffc219;
+}
